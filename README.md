@@ -3,7 +3,6 @@
 My name is Max Geller and I'm a contstruction professional and full-stack software developer based in Phoenix, AZ.  I also create content at [DevMax.io](https://devmax.io).
 
 
-### Summary
 - 🔭 I’m currently working on advanced data modeling for construction.
 - 🌱 I’m currently learning: React, TensorFlow
 - 👯 I’m looking to collaborate on ...
