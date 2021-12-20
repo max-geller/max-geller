@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Max Geller and I'm a full-stack software developer based in Phoenix, AZ.
+My name is Max Geller and I'm a contstruction professional and full-stack software developer based in Phoenix, AZ.
 
 
 ## Summary
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on advanced data modeling for construction.
 - 🌱 I’m currently learning: React, TensorFlow
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,9 +12,17 @@ My name is Max Geller and I'm a full-stack software developer based in Phoenix, 
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+
 ## INTERESTS
+- Full-stack development with Angular / Firebase.
+- Front-end development with NextJS / Gatsby.
+- API Development with GraphQL
+- Machine Learning with Python
+
 
 ## GOALS
 
+
+
 ## CONTACT
-You can find me on Twitter, or on LinkedIn.
+You can find me on Twitter, Instagram, or on LinkedIn.
