@@ -4,10 +4,6 @@ My name is Max Geller and I'm a full-stack software developer based in Phoenix, 
 You can find me on Twitter, or on LinkedIn.
 
 
-**max-geller/max-geller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: React, TensorFlow
 - 👯 I’m looking to collaborate on ...
