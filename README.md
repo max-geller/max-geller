@@ -25,4 +25,4 @@ My name is Max Geller and I'm a contstruction professional and full-stack softwa
 
 
 ## CONTACT
-You can find me on Twitter, Instagram, or on LinkedIn.
+You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
