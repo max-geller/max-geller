@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on Twitter, or on LinkedIn.
+My name is Max Geller and I'm a full-stack software developer based in Phoenix, AZ.
+You can find me on Twitter, or on LinkedIn.
 
 
 **max-geller/max-geller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
