@@ -14,4 +14,3 @@ You can find me on Twitter, or on LinkedIn.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-geller&show_icons=true&theme=radical)](https://github.com/max-geller/github-readme-stats)
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-geller&show_icons=true&theme=radical)
