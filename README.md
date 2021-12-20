@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Max Geller and I'm a contstruction professional and full-stack software developer based in Phoenix, AZ.  
+My name is Max Geller. I'm a contstruction professional and full-stack software developer based in Phoenix, AZ.  
 
 
 - 🔭 I’m currently working on advanced data modeling for tracking construction costs.
