@@ -3,14 +3,12 @@
 My name is Max Geller. I'm a contstruction professional and full-stack software developer based in Phoenix, AZ.  
 
 
-- 🔭 I’m currently working on advanced data modeling for tracking construction costs.
+- ⚡ I’m currently working on advanced data modeling for tracking construction costs.
 - 🌱 I’m currently learning: React, TensorFlow
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 
 
-### INTERESTS
+### DEV INTERESTS
 - Full-stack development with Angular / Firebase.
 - Front-end development with NextJS / Gatsby.
 - API Development with GraphQL
