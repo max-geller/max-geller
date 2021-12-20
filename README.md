@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-geller)](https://github.com/max-geller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max-geller&show_icons=true&theme=radical)](https://github.com/max-geller/github-readme-stats)
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=max-geller&show_icons=true&theme=radical)
