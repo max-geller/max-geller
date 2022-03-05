@@ -4,14 +4,13 @@ My name is Max Geller. I'm a contstruction professional and full-stack software 
 
 
 - ⚡ I’m currently working on advanced data modeling for tracking construction costs.
-- 🌱 I’m currently learning: React, TensorFlow
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning: NestJS
 
 
 ### DEV INTERESTS
 - Full-stack development with Angular / Firebase.
-- Front-end development with NextJS / Gatsby.
-- API Development with GraphQL
+- Front-end development with NextJS / Angular
+- API Development with NestJS
 - Machine Learning with Python
 
 
