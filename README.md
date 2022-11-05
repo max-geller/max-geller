@@ -3,14 +3,12 @@
 My name is Max Geller. I'm a construction professional and full-stack software developer based in Phoenix, AZ.  
 
 
-- ⚡ I’m currently working on advanced data modeling for tracking construction costs.
-- 🌱 I’m currently learning: NestJS
+- ⚡ I’m currently working on advanced data modeling and analytics for tracking construction costs.
+- 🌱 I’m currently using: NestJS, Primsa, and SupaBase
 
 
 ### DEV INTERESTS
-- Full-stack development with Angular / Firebase.
-- Front-end development with NextJS / Angular
-- API Development with NestJS
+- Full-stack development with NextJS / React / Angular
 - Machine Learning with Python
 
 
