@@ -4,7 +4,7 @@ My name is Max Geller. I'm a construction professional and full-stack software d
 
 
 - ⚡ I’m currently working on advanced data modeling and analytics for tracking construction costs.
-- 🌱 I’m currently using: NestJS, Primsa, and SupaBase
+- 🌱 I’m currently using: Angular, Firebase, RxJS
 
 
 ### DEV INTERESTS
