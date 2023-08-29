@@ -1,8 +1,8 @@
 ### Hi there :wave:
 
 My name is Max Geller.
-I'm a construction professional by day, and full-stack software developer by night
-based in 🌵 Phoenix, AZ.
+I'm a construction professional by day and full-stack software developer by night
+based in  Phoenix, AZ 🌵.
 
 
 - ⚡ I’m currently working on advanced data modeling and analytics for tracking construction costs.
@@ -10,7 +10,7 @@ based in 🌵 Phoenix, AZ.
   
 <details>
 <summary>
-  More stuff about me
+  More Stuff
 </summary>
 
 ## DEV INTERESTS
@@ -27,10 +27,10 @@ based in 🌵 Phoenix, AZ.
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/Angular%20-test?logo=Angular&color=000)
 
-Next.js
-Prisma
-Microsoft Azure 
-Google Cloud Platform
+- Next.js
+- Prisma
+- Microsoft Azure 
+- Google Cloud Platform
 
 
 ## CONTACT
