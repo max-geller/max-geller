@@ -31,7 +31,8 @@ based in  Phoenix, AZ 🌵.
 - Prisma
 - Microsoft Azure 
 - Google Cloud Platform
-
+- 
+</details>
 
 ## CONTACT
 You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
