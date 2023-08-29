@@ -16,6 +16,6 @@ My name is Max Geller. I'm a construction professional and full-stack software d
 ### CONTACT
 You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
 
-```
+
 ![Visitor Count](https://profile-counter.glitch.me/max-geller/count.svg)
-```
+
