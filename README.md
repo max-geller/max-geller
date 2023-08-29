@@ -21,6 +21,8 @@ based in 🌵 Phoenix, AZ.
 ### Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/Angular%20--Angular?logo=Angular)
+
 Next.js
 Prisma
 Microsoft Azure 
