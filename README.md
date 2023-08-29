@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 My name is Max Geller.
 I'm a construction professional by day, and full-stack software developer by night
