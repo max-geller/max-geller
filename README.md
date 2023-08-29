@@ -7,7 +7,11 @@ based in 🌵 Phoenix, AZ.
 
 - ⚡ I’m currently working on advanced data modeling and analytics for tracking construction costs.
 - 🌱 I’m currently using: Angular, Firebase, RxJS
-
+  
+<details>
+<summary>
+  More stuff about me
+</summary>
 
 ## DEV INTERESTS
 - Full-stack development
