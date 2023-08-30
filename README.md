@@ -9,7 +9,7 @@ As an Electrical Preconstruction Manager in the construction industry, I harness
   
 <details>
 <summary>
-  More Stuff
+  More Stuff and Whatnot...
 </summary>
 
 ## DEV INTERESTS
