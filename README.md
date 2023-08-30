@@ -5,11 +5,12 @@ Construction professional by day, and software enthusiast by night. Based in  Ph
 My name is Max Geller, and I'm passionate about building bridges between construction and code.
 
 
-As an Electrical Preconstruction Manager in the construction industry, I harness the power of software development to enhance project cost estimation and the analysis of historical construction cost data.  GitHub is a place to showcase of my passion for coding and its potential to revolutionize the modern, data-driven construction landscape.
+As an Electrical Preconstruction Manager in the construction industry, I harness the power of software development to enhance project cost estimation and the analysis of historical construction cost data.  GitHub is a place to showcase my passion for coding and its potential to improve the modern, data-driven construction landscape.
 
 #### Development Interests:
 - Developing tools to optimize construction cost estimation
 - Optimizing historical project cost archival and analysis for data-driven insights
+- Delivering cost data engagement using modern vizualization tools
 
 
 <details>
