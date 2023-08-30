@@ -15,7 +15,7 @@ As an Electrical Preconstruction Manager in the construction industry, I harness
 
 <details>
 <summary>
-  More Stuff and Whatnot...
+### More Stuff and Whatnot...
 </summary>
 
 
