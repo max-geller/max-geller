@@ -1,8 +1,9 @@
 ### Hi there :wave:
 
+Construction professional by day, and software enthusiast by night. Based in  Phoenix, AZ 🌵.
+
 My name is Max Geller, and I'm passionate about building bridges between construction and code.
 
-I'm a construction professional by day, and software enthusiast by night. Based in  Phoenix, AZ 🌵.
 
 As an Electrical Preconstruction Manager in the construction industry, I harness the power of software development to enhance project cost estimation and the analysis of historical construction cost data. 
 
