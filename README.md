@@ -1,12 +1,11 @@
 ### Hi there :wave:
 
-My name is Max Geller.
-I'm a construction professional by day and full-stack software developer by night
-based in  Phoenix, AZ 🌵.
+My name is Max Geller, and I'm passionate about building bridges between construction and code.
 
+I'm a construction professional by day, and software enthusiast by night. Based in  Phoenix, AZ 🌵.
 
-- ⚡ I’m currently working on advanced data modeling and analytics for tracking construction costs.
-- 🌱 I’m currently using: Angular, Firebase, RxJS
+As an Electrical Preconstruction Manager in the construction industry, I harness the power of software development to enhance project cost estimation and the analysis of historical construction cost data. 
+
   
 <details>
 <summary>
