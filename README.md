@@ -1,4 +1,3 @@
-### Hi there :wave:
 
 Construction professional by day, and software enthusiast by night. Based in  Phoenix, AZ 🌵.
 
