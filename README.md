@@ -1,8 +1,6 @@
 
 Construction professional by day, and software enthusiast by night. Based in  Phoenix, AZ 🌵.
 
-Working as an Electrical Preconstruction Manager in the construction industry, I harness the power of data anlytics to enhance project cost estimation and the analysis of historical construction cost data.  GitHub is a place to showcase my passion for coding and its potential to improve the modern, data-driven construction landscape.
-
 #### Development Interests:
 - Developing tools to optimize construction cost estimation
 - Optimizing historical project cost archival and analysis for data-driven insights
