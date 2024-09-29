@@ -71,7 +71,7 @@ Languages & Technologies
 </details>
 
 ### CONTACT ME:
-I'm always excited to learn and collaborate. You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
+You can find me on [Twitter](https://twitter.com/Max_Geller), [Instagram](https://www.instagram.com/maxgeller), or on [LinkedIn](https://www.linkedin.com/in/maxgeller/).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/max-geller/count.svg)
