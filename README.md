@@ -6,11 +6,8 @@ Construction professional by day, and software enthusiast by night. Based in  Ph
 - Optimizing historical project cost archival and analysis for data-driven insights
 - Delivering cost data engagement using modern vizualization tools
 
-
-<details>
-<summary>
-Languages & Technologies
-</summary>
+  
+## Languages & Technologies
 
 
 
